@@ -1,3 +1,8 @@
+# Medical Chatbot Specific
+logs/
+*.log
+*.log.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -213,3 +218,8 @@ uv.lock
 setup.py
 
 pyproject.toml
+
+
+logs/
+
+.vscode/
